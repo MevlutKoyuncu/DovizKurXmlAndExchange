@@ -1,0 +1,10 @@
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\bin\Debug\DovizKurlariDataTable.exe.config
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\bin\Debug\DovizKurlariDataTable.exe
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\bin\Debug\DovizKurlariDataTable.pdb
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.csproj.AssemblyReference.cache
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.Form1.resources
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.Properties.Resources.resources
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.csproj.GenerateResource.cache
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.exe
+C:\Users\Mevlut\source\repos\DovizKurlariDataTable\DovizKurlariDataTable\obj\Debug\DovizKurlariDataTable.pdb
