@@ -48,10 +48,14 @@ namespace DovizKurlariDataTable
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (rowindex >= 0)
+            if (rowindex >= 0 && dgv_kurlar.Rows[rowindex].Selected != false)
             {
                 double id = Convert.ToDouble(dgv_kurlar.Rows[rowindex].Cells[3].Value);
                 lbl_yapar.Text = (Convert.ToDouble(tb_neKadar.Text) * id).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Lütfen bir kura tıklayınız.");
             }
         }
         private void dgv_kurlar_MouseClick(object sender, MouseEventArgs e)
@@ -75,11 +79,15 @@ namespace DovizKurlariDataTable
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (rowindex >= 0)
+            if (rowindex >= 0 && dgv_kurlar.Rows[rowindex].Selected != false)
             {
                 double id = Convert.ToDouble(dgv_kurlar.Rows[rowindex].Cells[3].Value);
                 lbl_yapar1.Text = (Convert.ToDouble(tb_neKadar1.Text) / id).ToString();
                 lbl_yapar1.Text = Math.Round(Convert.ToDouble(lbl_yapar1.Text), 2).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Lütfen bir kura tıklayınız.");
             }
         }
     }
